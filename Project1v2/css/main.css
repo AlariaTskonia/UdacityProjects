@@ -1,7 +1,7 @@
 ﻿/*sets formatting for main styles*/
 
 body {
-    font: /250% 'Lucida Grande', sans-serif;
+    font: 14px/250% 'Lucida Grande', sans-serif;
     color: #666;
     line-height: 250%;
 }

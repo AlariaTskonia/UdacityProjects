@@ -1,8 +1,7 @@
 ﻿
 body {
-    font-family: 'Lato', sans-serif;
+    font:  300 medium 'Lato', sans-serif;
     color: #747704;
-    font-weight: 300;
 }
 .text-muted {
     color: #bcbbbb;
@@ -10,6 +9,8 @@ body {
 .text.thin {
         font-weight: 100;
 }
+
+/*change up the hightlighter*/
 ::selection {
   background: #e2c6ff; /* WebKit/Blink Browsers */
 }
